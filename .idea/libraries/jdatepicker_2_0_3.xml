@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jdatepicker-2.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../jdatepicker-2.0.3.jar!/" />
+      <root url="jar://C:/app/ds/product/18.0.0/dbhomeXE/jdbc/lib/ojdbc8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
