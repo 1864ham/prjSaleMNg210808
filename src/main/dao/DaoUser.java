@@ -53,5 +53,6 @@ public class DaoUser extends DaoSet{
         } catch (SQLException throwables) {
             throwables.printStackTrace();
         }
+        return result;
     }
 }
